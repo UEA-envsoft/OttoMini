@@ -280,7 +280,7 @@ def gesturesTable():
             <td><form action='./G-11'><input type='submit' value='Victory' class='gesture' /></form></td>
             </tr><tr>
             <td>&nbsp;</td>
-            <td><form action='./G-FL'><input type='submit' value='Fail' class='gesture' /></form></td>
+            <td><form action='./G-12'><input type='submit' value='Fail' class='gesture' /></form></td>
             <td>&nbsp;</td>
             </tr></table>      
     """

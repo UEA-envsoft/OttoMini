@@ -165,7 +165,7 @@ def setPC(request):
 
 otto = Otto()          
 otto.init(6, 5, 7, 9, False, 2, 0, 1)
-otto.setTrims(-2,-7,14,2)
+otto.setTrims(0,0,0,0) #edit to suit your bot
 walkStatus = "STP"
 
 timer = Timer(0)  # create a timer object using timer 0

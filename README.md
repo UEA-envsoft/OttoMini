@@ -8,7 +8,7 @@ Otto Mini is a smaller Otto robot running on an ESP32-C3 supermini
 
 Printing instructions are here https://www.printables.com/model/1066390-otto-mini
 
-micropyserver.py cones from https://github.com/troublegum/micropyserver/blob/master/micropyserver.py  
+micropyserver.py cones from https://github.com/troublegum/micropyserver/tree/master    
 
 Most of the Otto code (unless stated otherwise) is from https://github.com/OttoDIY/OttoDIYPython  
 

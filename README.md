@@ -17,6 +17,7 @@ Otto_servo.py has been edited to suit the DSPower DS-M005 2g servo
 MiniOtto.py has been derived from Otto.py in the OttoDIY Python Project  
 
 main.py runs the webserver on the ESP32-C3
+edit line 168 (at time of writing) otto.setTrims(0,0,0,0) to suit your bot
 
 MO_WebInterface.py contains much of the code for drawing the web page
 

@@ -1,3 +1,8 @@
+#***************************************
+#      Web Control For Otto Mini
+#       Alex Just-Alex Nov 2024
+#***************************************
+
 from micropyserver import MicroPyServer
 import network
 from secrets import WIFI_NAME, WIFI_PASS

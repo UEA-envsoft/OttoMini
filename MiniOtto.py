@@ -1,6 +1,9 @@
-# -------        MiniOtto
+#****************************************************************
+#                      MiniOtto
+#    derived from Otto.py     -- OttoDIY Python Project, 2024
+#               Alex Just-Alex Nov 2024
+#****************************************************************
 
-# derived from Otto.py     -- OttoDIY Python Project, 2024
 
 from micropython import const
 from machine import Pin, PWM, ADC

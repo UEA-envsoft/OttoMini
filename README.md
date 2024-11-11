@@ -2,6 +2,10 @@
 
 Web Control for Otto Mini
 
+DISCLAIMER: Clunky and liable to falling over. This is a proof of concept/work in progress.  
+
+If anyone improves on this please let me know!!  
+
 ![MiniOttoDimensions](https://github.com/user-attachments/assets/eedbeead-a1c8-400b-bb97-cb20c0b94d31)
 
 Otto Mini is a smaller Otto robot running on an ESP32-C3 supermini  

@@ -1,3 +1,8 @@
+#********************************************************
+#        web page builder for Otto Mini Control
+#               Alex Just-Alex Nov 2024
+#********************************************************
+
 interface = "PC" 
 
 def webpage(dist):

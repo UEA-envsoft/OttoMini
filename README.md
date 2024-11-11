@@ -2,7 +2,7 @@
 
 Web Control for Otto Mini
 
-DISCLAIMER: Clunky and liable to falling over. This is a proof of concept/work in progress.  
+DISCLAIMER: Clunky and liable to falling over (both the code and Otto himself!!). This is a proof of concept/work in progress.  
 
 If anyone improves on this please let me know!!  
 

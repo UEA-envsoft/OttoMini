@@ -2,7 +2,7 @@
 #-- OttDIY Python Project, 2024
 #********************************************************
 #             max_us  increase to 2500
-#     (min_us could be decreased to 500 if required)
+#     (min_us could be decreased to 500 if required) now done
 #               Alex Just-Alex Nov 2024
 #********************************************************
 
@@ -22,7 +22,7 @@ except ImportError:
 
 
 class Servo:
-    def __init__(self, freq = 50, min_us = 1000, max_us = 2500, max_ang = 180):
+    def __init__(self, freq = 50, min_us = 500, max_us = 2500, max_ang = 180):
         global useServo
         self.min_us = min_us
         self.max_us = max_us
